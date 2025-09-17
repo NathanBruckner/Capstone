@@ -13,6 +13,7 @@
 - String Potentiometer
 - Geared Potentiometer
 - Laser / Optical Encoder
+- Strain Gauge selection / location
 
 3. Display Device
 
